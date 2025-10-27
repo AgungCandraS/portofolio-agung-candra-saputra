@@ -8,6 +8,7 @@ PENJELASAN WEBSITE SAYA:
 
 Saya membuat website portofolio dengan konsep satu halaman namun scrolling kebawah, ada bagian home tentang sayam pekerjaan, dan kontak serta tombol untukmenampilkan jamd dan alert
 dengan tambahan tombol toogle tema untuk terang dan gelap.
+
 TAMPILAN WEBSITE
 
 ini adalah halaman home dengan tema dark
