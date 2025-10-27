@@ -17,7 +17,7 @@ ini adalah halaman home dengan tema dark
 
 Ini adalah tampilan tema terang
 
-<img width="1366" height="768" alt="image" src="https://github.com/user-attachments/assets/b96b6da1-f9f0-4ac5-9e8b-f52311d12f27" />
+<img width="1366" height="768" alt="image" src="https://github.com/user-attachments/assets/51da0356-e1ab-4137-b6fc-6cde1e1f55fe" />
 
 
 ini tampilan scrolling bagian tentang saya
