@@ -17,11 +17,13 @@ ini adalah halaman home dengan tema dark
 
 Ini adalah tampilan tema terang
 
-<img width="1366" height="768" alt="image" src="https://github.com/user-attachments/assets/13a813a2-7658-419e-86bd-154f2b4ffba5" />
+<img width="1366" height="768" alt="image" src="https://github.com/user-attachments/assets/b96b6da1-f9f0-4ac5-9e8b-f52311d12f27" />
+
 
 ini tampilan scrolling bagian tentang saya
 
-<img width="1366" height="768" alt="image" src="https://github.com/user-attachments/assets/7e594ee5-97b4-4a14-b56b-e561ee270b71" />
+<img width="1366" height="768" alt="image" src="https://github.com/user-attachments/assets/c186e7f7-91c4-4a6d-80d7-ba3e79d5cb96" />
+
 
 ini adalah bagian pekerjaan saya,dimana jika menekan tombol tiktokshop shoppe dan tokopedia akanmunculdua pilihan toko yang saya punya, lalu jika diklik maka akan dilanjutkan ke link toko saya dari platform tersebut
 
@@ -29,6 +31,7 @@ ini adalah bagian pekerjaan saya,dimana jika menekan tombol tiktokshop shoppe da
 
 terakhir bagian kontak saya
 
-<img width="1366" height="768" alt="image" src="https://github.com/user-attachments/assets/6871bd74-54c1-4e4c-ac9c-12f633971d4c" />
+<img width="1366" height="768" alt="image" src="https://github.com/user-attachments/assets/1bcbc920-1052-4d44-89c2-0fc78b6b3c23" />
+
 
 
